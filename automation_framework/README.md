@@ -1,4 +1,4 @@
-# Test Automation Framework
+Test Automation Framework
 This document talks about how to use the Test Automation Framework for testing the ZipGo Web, Mobile and API application.
 
 ## Introduction
