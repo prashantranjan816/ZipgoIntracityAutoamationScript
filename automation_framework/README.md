@@ -4,7 +4,7 @@ This document talks about how to use the Test Automation Framework for testing t
 ###### Introduction
 The Test Automation Framework allows you to create the tests for:
 * Web Applications which can be run on following browsers:
-  * Chrome
+   Chrome
   * Firefox
   * Edge Driver
   * Internet Explorer 11
