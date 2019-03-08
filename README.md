@@ -1,7 +1,7 @@
 # Test Automation Framework
 This document talks about how to use the Test Automation Framework for testing the ZipGo Web, Mobile and API application.
 
-###### Introduction
+## Introduction
 The Test Automation Framework allows you to create the tests for:
 * Web Applications which can be run on following browsers:
   * Chrome
